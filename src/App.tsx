@@ -8,7 +8,7 @@ function App() {
       <div 
         className="h-[40vh] w-full relative overflow-hidden"
         style={{
-          backgroundImage: 'url("https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&w=1920")',
+          backgroundImage: 'url("https://cdn.serverse.org/oswars/greenbanner.png")',
           backgroundSize: 'cover',
           backgroundPosition: 'center',
           backgroundAttachment: 'fixed'
@@ -27,7 +27,7 @@ function App() {
               <div className="absolute -inset-0.5 bg-green-500 rounded-full blur opacity-75 group-hover:opacity-100 transition duration-1000"></div>
               <div className="relative w-48 h-48 rounded-full border-2 border-gray-700 overflow-hidden bg-gray-800 shadow-2xl">
                 <img
-                  src="https://images.unsplash.com/photo-1614741118887-7a4ee193a5fa?auto=format&fit=crop&w=400"
+                  src="https://cdn.serverse.org/oswars/green.png"
                   alt="Team Green OS Logo"
                   className="w-full h-full object-cover transition duration-700 group-hover:scale-110"
                 />
